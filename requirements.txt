@@ -1,0 +1,5 @@
+here you will see my libraries i have used for my application:
+
+pip install streamlit
+
+some of my imported modules:
