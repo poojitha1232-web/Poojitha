@@ -1,0 +1,11 @@
+python -m venv env
+cd env
+cd Scripts
+./activate
+cd.. (twice to reach nera your file path)
+pip install requirements.txt
+streamlit run imageinsight.py
+You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.82.242.112:8501
