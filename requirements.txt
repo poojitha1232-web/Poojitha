@@ -2,6 +2,7 @@ here you will see my libraries i have used for my application:
 
 pip install streamlit
 pip install pillow 
+pip install streamlit transformers torch pillow
 some of my imported modules:
 
 import streamlit as st
