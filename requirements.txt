@@ -1,5 +1,9 @@
 here you will see my libraries i have used for my application:
 
 pip install streamlit
-
+pip install pillow 
 some of my imported modules:
+
+import streamlit as st
+from transformers import BlipProcessor, BlipForConditionalGeneration
+from PIL import Image
